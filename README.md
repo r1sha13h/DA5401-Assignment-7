@@ -1,3 +1,9 @@
+Name: Rishabh Mishra
+
+Roll: DA25M025
+
+DOS: 31 Oct, 2025
+
 # Soil Classification using Machine Learning
 
 A comprehensive multi-class classification project analyzing Statlog Landsat Satellite data to classify 6 different soil types using various machine learning algorithms with detailed performance evaluation through ROC and Precision-Recall curves.
